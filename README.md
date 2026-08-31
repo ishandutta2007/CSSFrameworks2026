@@ -6,14 +6,13 @@
 
 **A curated list of the most popular, lightweight, and modern CSS frameworks for web development in 2026.**
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Stars](https://img.shields.io/github/stars/ishandutta2007/CSSFrameworks2026?style=for-the-badge&color=ffd700)](https://github.com/ishandutta2007/CSSFrameworks2026/stargazers)
 [![Forks](https://img.shields.io/github/forks/ishandutta2007/CSSFrameworks2026?style=for-the-badge&color=3498db)](https://github.com/ishandutta2007/CSSFrameworks2026/network/members)
 [![Issues](https://img.shields.io/github/issues/ishandutta2007/CSSFrameworks2026?style=for-the-badge&color=e74c3c)](https://github.com/ishandutta2007/CSSFrameworks2026/issues)
 [![License](https://img.shields.io/github/license/ishandutta2007/CSSFrameworks2026?style=for-the-badge&color=2ecc71)](LICENSE)
 [![CSS3](https://img.shields.io/badge/Made%20with-CSS3-orange?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-<a href="https://github.com/ishandutta2007">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
-</a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 
 ---
@@ -136,14 +135,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 
-## 📈 Star History
-
-<div align="center">
-   <a href="https://www.star-history.com/?repos=ishandutta2007%2FCSSFrameworks2026&type=date&legend=bottom-right">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/CSSFrameworks2026&type=date&theme=dark&legend=bottom-right" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/CSSFrameworks2026&type=date&legend=bottom-right" />
-      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/CSSFrameworks2026&type=date&legend=bottom-right" />
-    </picture>
-   </a>
-</div>
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/CSSFrameworks2024&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/CSSFrameworks2024&type=date&legend=top-left)
