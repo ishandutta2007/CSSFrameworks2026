@@ -1,15 +1,15 @@
 <div align="center">
 
-# 🎨 CSS Frameworks 2024 🚀
+# 🎨 CSS Frameworks 2026 🚀
 
-![Banner](./banner.svg)
+![Banner](./assets/banner.svg)
 
-**A curated list of the most popular, lightweight, and modern CSS frameworks for web development in 2024.**
+**A curated list of the most popular, lightweight, and modern CSS frameworks for web development in 2026.**
 
-[![Stars](https://img.shields.io/github/stars/ishan/CSSFrameworks2024?style=for-the-badge&color=ffd700)](https://github.com/ishan/CSSFrameworks2024/stargazers)
-[![Forks](https://img.shields.io/github/forks/ishan/CSSFrameworks2024?style=for-the-badge&color=3498db)](https://github.com/ishan/CSSFrameworks2024/network/members)
-[![Issues](https://img.shields.io/github/issues/ishan/CSSFrameworks2024?style=for-the-badge&color=e74c3c)](https://github.com/ishan/CSSFrameworks2024/issues)
-[![License](https://img.shields.io/github/license/ishan/CSSFrameworks2024?style=for-the-badge&color=2ecc71)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/ishandutta2007/CSSFrameworks2026?style=for-the-badge&color=ffd700)](https://github.com/ishandutta2007/CSSFrameworks2026/stargazers)
+[![Forks](https://img.shields.io/github/forks/ishandutta2007/CSSFrameworks2026?style=for-the-badge&color=3498db)](https://github.com/ishandutta2007/CSSFrameworks2026/network/members)
+[![Issues](https://img.shields.io/github/issues/ishandutta2007/CSSFrameworks2026?style=for-the-badge&color=e74c3c)](https://github.com/ishandutta2007/CSSFrameworks2026/issues)
+[![License](https://img.shields.io/github/license/ishandutta2007/CSSFrameworks2026?style=for-the-badge&color=2ecc71)](LICENSE)
 [![CSS3](https://img.shields.io/badge/Made%20with-CSS3-orange?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 <a href="https://github.com/ishandutta2007">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
@@ -24,7 +24,7 @@
 
 ## 📖 Overview
 
-Welcome to the ultimate repository for **CSS Frameworks in 2024**! Whether you are looking for a utility-first framework like Tailwind CSS, a component-based system like Bootstrap, or a minimalist approach like Pico.css, this list has you covered. 
+Welcome to the ultimate repository for **CSS Frameworks in 2026**! Whether you are looking for a utility-first framework like Tailwind CSS, a component-based system like Bootstrap, or a minimalist approach like Pico.css, this list has you covered. 
 
 Our goal is to help developers find the best **UI/UX tools** to build responsive, accessible, and high-performance websites.
 
@@ -139,11 +139,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📈 Star History
 
 <div align="center">
-   <a href="https://www.star-history.com/?repos=ishandutta2007%2FCSSFrameworks2024&type=date&legend=bottom-right">
+   <a href="https://www.star-history.com/?repos=ishandutta2007%2FCSSFrameworks2026&type=date&legend=bottom-right">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/CSSFrameworks2024&type=date&theme=dark&legend=bottom-right" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/CSSFrameworks2024&type=date&legend=bottom-right" />
-      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/CSSFrameworks2024&type=date&legend=bottom-right" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/CSSFrameworks2026&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/CSSFrameworks2026&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/CSSFrameworks2026&type=date&legend=bottom-right" />
     </picture>
    </a>
 </div>
